@@ -1,6 +1,6 @@
 # Shipping API - UAPIM Demo
 
-Show payment orders if current User has access permissions to it. Developed by Loreto.
+Show payment orders if current User has access permissions to it. Developed by Loreto
 
 **URL** : `/api/payments/:pk/`
 
